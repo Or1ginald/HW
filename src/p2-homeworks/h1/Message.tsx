@@ -20,7 +20,6 @@ function Message(props: MessagePropsType) {
                         <div className={m.message}>{props.message}</div>
                     </div>
                     <div className={m.time}>{props.time}</div>
-
                 </div>
             </div>
         </div>
